@@ -5,6 +5,8 @@
  */
 package mynewgui;
 
+import java.awt.BorderLayout;
+
 /**
  *
  * @author Tarc
@@ -18,6 +20,7 @@ public class MyNewGUI {
         System.out.println("Hello world 1");
         
         System.out.println("hello world 2");
+        System.out.println("Hello world 3");
     }
     
 }
